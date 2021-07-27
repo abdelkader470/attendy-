@@ -1,4 +1,4 @@
-# shop_app
+# attendy_app
 
 A new Flutter project.
 
